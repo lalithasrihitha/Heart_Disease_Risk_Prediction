@@ -59,7 +59,3 @@ The repository contains an R script with all analysis steps and comments, a PDF 
 - `Heart_disease_risk_prediction.pdf` – summary report with interpretation of results  
 - `simulated_healthcare_dataset-1.csv` – Dataset used for analysis  
 
----
-
-## Academic Context
-This project was completed as a graduate-level lab assignment for Applied Statistics using R, focusing on logistic regression modeling, interpretation, and visualization.
